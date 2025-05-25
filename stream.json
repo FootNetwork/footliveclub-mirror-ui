@@ -1,0 +1,9 @@
+{
+  "event": "PSG vs Inter Milan",
+  "mirrors": [
+    "/stream/psg-inter-pri",
+    "/alt/psg-inter-f2",
+    "/qa/psg-inter-check"
+  ],
+  "status": "QA_test"
+}

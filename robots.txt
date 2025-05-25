@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://footliveclub.github.io/flclub-mirror-ui/sitemap.xml
