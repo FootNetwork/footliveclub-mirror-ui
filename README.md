@@ -2,7 +2,7 @@
 
 This repository simulates a lightweight user interface used to test fallback stream mirrors, alternate routing behavior, and dynamic match display.
 
-The layout is static and meant for interface prototyping — no actual streams or media content are embedded or referenced.
+The layout is static and meant for interface prototyping — no actual streams or media content are enabled embedded or referenced.
 
 ---
 
